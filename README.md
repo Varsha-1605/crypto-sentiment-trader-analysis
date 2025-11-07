@@ -309,23 +309,6 @@ df['month'] = df['datetime'].dt.month
 
 ---
 
-## 📧 Contact & Submission
-
-**Candidate**: [Your Name]  
-**Email**: [Your Email]  
-**LinkedIn**: [Your LinkedIn]  
-**GitHub**: [Your GitHub Profile]
-
-**Assignment Submitted To**:
-- saami@bajarangs.com
-- nagasai@bajarangs.com
-- chetan@bajarangs.com
-- CC: sonika@primetrade.ai
-
-**Subject Line**: "Junior Data Scientist – Trader Behavior Insights"
-
----
-
 ## 📄 License
 
 This project is created for assignment evaluation purposes. All data sources are properly attributed.
