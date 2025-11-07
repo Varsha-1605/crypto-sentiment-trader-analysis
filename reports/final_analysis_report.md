@@ -1,5 +1,4 @@
 # Trader Behavior Insights: Market Sentiment Analysis
-## Junior Data Scientist Assignment - Hyperliquid Trading Data
 
 ---
 
